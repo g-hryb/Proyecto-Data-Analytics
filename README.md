@@ -17,3 +17,9 @@ Análisis de los factores que influyen en las visitas a los **39 Parques Naciona
 - Uso de POWER BI para la creación de 6 dashboards interactivos
 - Uso de EXCEL como base de datos
 - Uso de DAX para la creación de medidas personalizadas
+
+## 📂 Estructura del proyecto
+├── # Base de datos utilizada (Excel)
+├── # Archivo .pbix con los dashboards
+├── # Documentación en PDF del proyecto 
+└── README.md
